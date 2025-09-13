@@ -1,3 +1,5 @@
+import sys
+print("Python version:", sys.version)
 import os
 import sqlite3
 import datetime
